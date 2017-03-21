@@ -8,7 +8,7 @@ body
 .container
 {
   padding: 15px;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 a
 {
@@ -38,7 +38,7 @@ header
 }
 section
 {
-  margin: 15px auto;
+  margin: 25px auto 25px auto;
   background-color: white;
   padding-top: 15px;
   padding-left: 35px;
