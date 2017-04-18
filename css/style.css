@@ -1,6 +1,6 @@
 body
 {
-  width: 700px;
+  width: 530px;
   margin: 0 auto;
   background: #F9F7F5;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -23,32 +23,30 @@ a:hover
   font-size: 18px;
   padding-left: 15px;
 }
-h2
+section
 {
-  border-bottom: 3px solid brown;
+  margin: 25px auto 25px auto;
+  background-color: white;
+  padding-right: 45px;
+  padding-left: 35px;
+  padding-top:15px;
   padding-bottom: 15px;
-  margin-right: 45px;
+}
+section > img
+{
+ height: 50px;
+ width: 50px;
+ padding-right: 10px;
+ padding-top: 10px;
+}
+section > h2
+{
+  border-bottom: 3px solid #D19A61;
+  padding:15px 0px 15px 0px !important;
 }
 header
 {
   text-align: center;
   background-color: white;
   padding: 15px;
-}
-section
-{
-  margin: 25px auto 25px auto;
-  background-color: white;
-  padding-top: 15px;
-  padding-left: 35px;
-  padding-left: 35px;
-  padding-bottom: 15px;
-
-}
-section > img
-{
- height: 75px;
- width: 75px;
- padding-right: 15px;
- padding-top: 10px;
 }
