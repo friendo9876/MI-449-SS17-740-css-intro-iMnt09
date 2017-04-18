@@ -25,11 +25,11 @@ a:hover
 }
 section
 {
-  margin: 15px auto 15px auto;
+  margin: 25px auto 25px auto;
   background-color: white;
   padding-right: 45px;
   padding-left: 35px;
-  padding-top:15px;
+  padding-top:10px;
   padding-bottom: 30px;
 }
 section > img
